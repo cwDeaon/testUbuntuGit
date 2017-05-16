@@ -1,2 +1,4 @@
 # testUbuntuGit
-It's just a Ubuntu Test
+It's just a Ubuntu test.
+Hello!Ubuntu!
+Hello!Git!! 
